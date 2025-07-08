@@ -38,10 +38,6 @@ Entender na prática como integrar **lógica de programação com controle físi
 
 Esse projeto mostrou como ações simples (como usar dois botões) podem criar lógicas de controle automatizadas muito mais eficientes e intuitivas. Um exemplo direto de como automatizar algo que antes exigiria alteração no código, agora pode ser feito via interface física.
 
-## 📷 Imagens
-
-*(Você pode adicionar prints do TinkerCAD aqui ou um GIF mostrando o funcionamento)*
-
 ## 👨‍🏫 Agradecimento especial
 
 Agradecimento ao professor **Luiz Felipe Delgado** (Luizinho) por mais uma aula incrível no curso de férias do ENIAC!
